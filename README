@@ -1,0 +1,11 @@
+Author: Renaun Erickson http://renaun.com
+
+Eiden1 is a Demo game used in my MAX 2010 session on games and Android.
+It uses the WiimoteController app that changes the IME to be Wiimotes.
+I have it coded for 2 wiimotes.
+
+Dependencies:
+  - github.com/renaun/KaigamesLibrary
+  - Built with Flex 4.1 SDK with AIR 2.5 overlaid
+
+License - see LICENSE file include in this repo
